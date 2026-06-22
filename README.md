@@ -1,8 +1,10 @@
 # BUNKER_CORE
 
-BUNKER_CORE™
+# BUNKER_CORE™
 
-Offline Knowledge Infrastructure
+> Offline Knowledge Infrastructure
+
+Infraestrutura de autonomia tecnológica voltada para Inteligência Artificial Local, preservação do conhecimento e resiliência digital.
 
 BUNKER_CORE™ é um projeto de autonomia tecnológica voltado para a preservação do conhecimento, inteligência artificial local e operação independente de serviços em nuvem.
 
